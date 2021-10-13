@@ -2,7 +2,7 @@
 ---
 ![](https://img.shields.io/github/followers/sheylaPozo?style=social)
 ---
-# bookstore-redux
+# foryourprybug
 
 > This project is part of Microverse's 2.0 curriculum. A buggie program for a lucky contestant to decode using PRY. Following the guidelines of ![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet)[🔗](https://www.microverse.org/) for best practices.
 ---
